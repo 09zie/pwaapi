@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Salmon pink bird eater tarantula","category":"Puce"},
+{"id":2,"name":"Shelduck, european","category":"Orange"},
+{"id":3,"name":"Pale-throated three-toed sloth","category":"Khaki"},
+{"id":4,"name":"Pampa gray fox","category":"Blue"},
+{"id":5,"name":"Bird, bare-faced go away","category":"Orange"},
+{"id":6,"name":"Kori bustard","category":"Pink"},
+{"id":7,"name":"Cat, kaffir","category":"Green"},
+{"id":8,"name":"Turkey, australian brush","category":"Red"},
+{"id":9,"name":"Red-billed buffalo weaver","category":"Turquoise"},
+{"id":10,"name":"Porcupine, north american","category":"Orange"},
+{"id":11,"name":"Duck, mountain","category":"Teal"},
+{"id":12,"name":"Kingfisher, pied","category":"Green"},
+{"id":13,"name":"Boa, malagasy ground","category":"Khaki"},
+{"id":14,"name":"Common brushtail possum","category":"Puce"},
+{"id":15,"name":"Grey phalarope","category":"Blue"},
+{"id":16,"name":"Square-lipped rhinoceros","category":"Puce"},
+{"id":17,"name":"Egret, great","category":"Maroon"},
+{"id":18,"name":"Slender-billed cockatoo","category":"Goldenrod"},
+{"id":19,"name":"Snowy owl","category":"Yellow"},
+{"id":20,"name":"Jaguarundi","category":"Red"}
+]
+}
